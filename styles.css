@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+body {
+    background-color: rgb(24, 24, 24) !important;
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.separatore {
+    width: 300px;
+    height: 250px;
+    background-color: rgb(24, 24, 24);
+}
+
+.separatore1 {
+    width: 300px;
+    height: 80px;
+    background-color: rgb(24, 24, 24);
+}
